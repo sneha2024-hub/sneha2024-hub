@@ -1,18 +1,27 @@
-# 💫 About Me:
-🔭 I’m currently building hands-on data analysis projects using Excel, SQL, Power BI, and Python to strengthen my analytics skills.  <br><br>👯 I’m open to collaborating on beginner-friendly analytics projects, dashboards, and data storytelling initiatives.  <br><br>🤝 I’m seeking mentorship and feedback on SQL optimization, Python (Pandas), and project structuring for real-world use cases.  <br><br>🌱 I’m currently learning Advanced Excel, SQL, Power BI, Python (Pandas, NumPy), and core Statistics for Data Analysis.  <br><br>💬 Ask me about data cleaning, EDA, dashboard design, and how to start in Data Analytics as a fresher.  <br><br>⚡ Fun fact: I believe consistency beats motivation — small daily progress compounds into big results.  <br>
+💫 About Me:
+🔭 I’m currently building hands-on data analysis projects using Excel, SQL, Power BI, and Python to strengthen my analytics skills.
+
+👯 I’m open to collaborating on beginner-friendly analytics projects, dashboards, and data storytelling initiatives.
+
+🤝 I’m seeking mentorship and feedback on SQL optimization, Python (Pandas), and project structuring for real-world use cases.
+
+🌱 I’m currently learning Advanced Excel, SQL, Power BI, Python (Pandas, NumPy), and core Statistics for Data Analysis.
+
+💬 Ask me about data cleaning, EDA, dashboard design, and how to start in Data Analytics as a fresher.
+
+⚡ Fun fact: I believe consistency beats motivation — small daily progress compounds into big results.
+
+🌐 Socials:
+Instagram LinkedIn [Medium](https://medium.com/@sneha h) Reddit X email
+
+💻 Tech Stack:
+MySQL Python Pandas Power Bi NumPy Pandas Matplotlib PyTorch scikit-learn Scipy Sketch Canva Adobe Lightroom
+
+📊 GitHub Stats:
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/snehaxanalytics) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sneha-data-analytics)(https://medium.com/@sneha h) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/snehaxai) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SnehaHarih43) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:snehahofficial2@gmail.com) 
 
-# 💻 Tech Stack:
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sneha2024-hub&theme=neon&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sneha2024-hub&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sneha2024-hub&theme=neon&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+✍️ Random Dev Quote
