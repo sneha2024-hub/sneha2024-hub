@@ -12,16 +12,4 @@
 ⚡ Fun fact: I believe consistency beats motivation — small daily progress compounds into big results.
 
 🌐 Socials:
-Instagram LinkedIn [Medium](https://medium.com/@sneha h) Reddit X email
-
-💻 Tech Stack:
-MySQL Python Pandas Power Bi NumPy Pandas Matplotlib PyTorch scikit-learn Scipy Sketch Canva Adobe Lightroom
-
-📊 GitHub Stats:
-
-
-
-
-
-
-✍️ Random Dev Quote
+Instagram LinkedIn X email
